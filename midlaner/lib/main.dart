@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Nurmayanti"),
+          title: Text("Abdul Aziz"),
         ),
         body: GridView(
           gridDelegate:
